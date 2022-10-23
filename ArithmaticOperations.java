@@ -11,7 +11,7 @@ public class ArithmaticOperations {
 		int b = sc.nextInt();
 		System.out.println("Enter 3rd Number : ");
 		int c = sc.nextInt();
-
+//performing operation wise
 		int operation1 = a + b * c;
 		int operation2 = c + a / b;
 		int operation3 = a % b + c;

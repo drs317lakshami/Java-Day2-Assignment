@@ -1,4 +1,4 @@
-package com.bridgelabz.firstday;
+package com.bridgelabz.firstdays;
 import java.util.Scanner;
 
 public class ArithmaticOperations {
